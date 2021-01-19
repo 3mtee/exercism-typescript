@@ -1,0 +1,9 @@
+{
+  "name": "@exercism/typescript",
+  "description": "Exercism exercises in Typescript.",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3mtee/exercism-typescript"
+  }
+}
